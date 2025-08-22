@@ -1,0 +1,15 @@
+# Data processing
+pyspark==3.5.1  
+
+# API consuming
+requests==2.32.3  
+
+# Tests
+pytest==8.2.2
+chispa==0.11.1 
+
+# Structured logging
+loguru==0.7.2  
+
+# Showing maps
+folium==0.20.0
